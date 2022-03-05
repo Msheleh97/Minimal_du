@@ -1,1 +1,1 @@
-A minimal version of du Unix-tool where the threads can be used for faster execution.
+A minimal version of "du" Unix-tool where the threads can be used for faster execution.
